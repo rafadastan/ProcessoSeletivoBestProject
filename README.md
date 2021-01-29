@@ -1,6 +1,6 @@
 # Processo seletivo para BestProject
 
-Banco de Dados
+## Banco de Dados
 Considere o modelo e os dados de exemplo a seguir e responda às perguntas abaixo:
 
 *	Escreva uma consulta em SQL que selecione o nome do produto, o preço do produto e o nome da categoria dos produtos que contenham a palavra “sapato” em seu nome ou que sejam da categoria com ID 2, sendo que o resultado deve ser ordenado pelo preço decrescentemente.
@@ -9,8 +9,9 @@ Considere o modelo e os dados de exemplo a seguir e responda às perguntas abaix
 *	Escreva uma consulta em SQL que selecione o nome dos produtos com preço maior que 100 juntamente com o nome das categorias dos produtos com preço menor que 100.
 *	Descreva quais alterações seriam necessárias na estrutura das tabelas caso fosse necessário que o produto fosse associado a mais de uma categoria (um para muitos).
 
+--------------------
 
-Teste Prático
+## Teste Prático
 Crie um projeto ASP.NET MVC no Visual Studio e desenvolva um cadastro como o exibido na imagem abaixo:
 
 Requisitos:
